@@ -1,5 +1,15 @@
+# Haumburger Ordering Application
+
 Project hosted on Firebase-
-See Demo - https://burger-create-63d20.firebaseapp.com/
+[See Demo](https://burger-create-63d20.firebaseapp.com/)
+
+This is a responsive web app(ReactJS) initially retrives the initail ingredients from firebase. You can add more ingredients and then
+to Order you have to SignUp to continue. Without SignUp you can't order the burger and can't access the orders page.<br />
+You will automatically redirected to SignUp page if you access orders page.<br />
+After successfulyy registered, you have to login as a User.<br />
+After loggin you can now add ingredients to the burger and order it.<br />
+All the details of burger appear on modal and you can 
+
  
 Any Queries and feedback regarding this project would be appreciable-
 Queries - 
