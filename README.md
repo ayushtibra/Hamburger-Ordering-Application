@@ -18,25 +18,62 @@ Activities in App:-
 ## 1. Main Page
 This page shows your initial burger with no ingredients added, the burger data is fetched from firebase. You have to Log IN to place a
 burger or to modify a burger.
+<div>
+ <img scr="/Screenshot/burgerMain.PNG">
+</div>
 
+## 2. Authentication Page
+First you have to register to the system then to use the app you have to login with the credintials.
+<div>
+<img src="/Screenshot/Login.PNG">
+</div>
+ 
+## 3. Modal 
+After succesfull authentication now you modify ingredients accordingly and by clicking on Order Now button, a modal appears with
+all the details of Burger including Price,number of ingredients,etc.
+<div>
+<img scr="/Screenshot/modal.PNG"/>
+</div>
+ 
+## 4. Form
+You have to fill all the personal details so that burger deliever at your location. Form validation also handled here like-
+Zipcode- only numeric and of 5 digits and so on.
+<div>
+<img src="/Screemshot/form.PNG/>
+</div>
 
+## 5. Orders Page
+Here you can see your previous orders and upcoming orders.
+<div>
+<img src="/Screenshot/orderspage.PNG">
+</div>
 
-Any Queries and feedback regarding this project would be appreciable-
+### Any Queries and feedback regarding this project would be appreciable-
 Queries - 
 1) How to install this project on your local machine?
-
 
 Feedback -
 1) Find any errors please let me know
 2) Method to improve any component
 3) Anything you would like to say
 
-Mail me on - aayushtibra1997@gmail.com
+### Mail me on - aayushtibra1997@gmail.com
+
+### To run this Prject on your system-
+1. npm install on your system.
+2. node install on your system.
+
+### How to run Project on your system-
+- Install node modules where you downloaded the project.
+- npm start to run the project
+
+#### On Browser type-
+localhost:3000 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
