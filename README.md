@@ -33,21 +33,21 @@ To modify initial fetched burger you can add more ingredients includes Salad, Ch
 <div>
  <img src="/Screenshot/AddIngredient.PNG">
  
-## 3. Modal 
+## 4. Modal 
 After succesfull authentication now you modify ingredients accordingly and by clicking on Order Now button, a modal appears with
 all the details of Burger including Price,number of ingredients,etc.
 <div>
-<img scr="/Screenshot/modal.PNG">
+<img src="/Screenshot/modal.PNG">
 </div>
  
-## 4. Form
+## 5. Form
 You have to fill all the personal details so that burger deliever at your location. Form validation also handled here like-
 Zipcode- only numeric and of 5 digits and so on.
 <div>
-<img src="/Screemshot/form.PNG>
+<img src="/Screemshot/form.PNG">
 </div>
 
-## 5. Orders Page
+## 6. Orders Page
 Here you can see your previous orders and upcoming orders.
 <div>
 <img src="/Screenshot/orderspage.PNG">
