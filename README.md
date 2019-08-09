@@ -3,18 +3,28 @@
 Project hosted on Firebase-
 [See Demo](https://burger-create-63d20.firebaseapp.com/)
 
-This is a responsive web app(ReactJS) initially retrives the initail ingredients from firebase. You can add more ingredients and then
-to Order you have to SignUp to continue. Without SignUp you can't order the burger and can't access the orders page.<br />
+This is a <b>responsive</b> web app(ReactJS) initially retrives the initail ingredients from firebase. You can add more ingredients and 
+then to Order you have to SignUp to continue. Without SignUp you can't order the burger and can't access the orders page.<br />
 You will automatically redirected to SignUp page if you access orders page.<br />
 After successfulyy registered, you have to login as a User.<br />
 After loggin you can now add ingredients to the burger and order it.<br />
-All the details of burger appear on modal and you can 
-
+All the details of burger appear on modal and you can now order it or cancel it.<br />
+Your burger appear of screen and there is form to submit your personal details like Name, Phone number, Address to deliver burger at
+your location. <br />
+After submitting form your order placed succesfully and you can see it on orders page.<br />
  
+Activities in App:-
+
+## 1. Main Page
+This page shows your initial burger with no ingredients added, the burger data is fetched from firebase. You have to Log IN to place a
+burger or to modify a burger.
+
+
+
 Any Queries and feedback regarding this project would be appreciable-
 Queries - 
 1) How to install this project on your local machine?
-2) Anything
+
 
 Feedback -
 1) Find any errors please let me know
