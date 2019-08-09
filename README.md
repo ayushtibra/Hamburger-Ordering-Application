@@ -19,7 +19,7 @@ Activities in App:-
 This page shows your initial burger with no ingredients added, the burger data is fetched from firebase. You have to Log IN to place a
 burger or to modify a burger.
 <div>
- <img scr="/Screenshot/burgerMain.PNG">
+ <img src="/Screenshot/burgerMain.PNG">
 </div>
 
 ## 2. Authentication Page
@@ -27,19 +27,24 @@ First you have to register to the system then to use the app you have to login w
 <div>
 <img src="/Screenshot/Login.PNG">
 </div>
+
+## 3. Add Ingredient
+To modify initial fetched burger you can add more ingredients includes Salad, Cheese, Meat ,Backon.
+<div>
+ <img src="/Screenshot/AddIngredient.PNG">
  
 ## 3. Modal 
 After succesfull authentication now you modify ingredients accordingly and by clicking on Order Now button, a modal appears with
 all the details of Burger including Price,number of ingredients,etc.
 <div>
-<img scr="/Screenshot/modal.PNG"/>
+<img scr="/Screenshot/modal.PNG">
 </div>
  
 ## 4. Form
 You have to fill all the personal details so that burger deliever at your location. Form validation also handled here like-
 Zipcode- only numeric and of 5 digits and so on.
 <div>
-<img src="/Screemshot/form.PNG/>
+<img src="/Screemshot/form.PNG>
 </div>
 
 ## 5. Orders Page
