@@ -44,8 +44,8 @@ all the details of Burger including Price,number of ingredients,etc.
 You have to fill all the personal details so that burger deliever at your location. Form validation also handled here like-
 Zipcode- only numeric and of 5 digits and so on.
 <div>
-<img src="/Screemshot/form.PNG">
-</div>
+ <img src="/Screenshot/form.PNG">
+ </div>
 
 ## 6. Orders Page
 Here you can see your previous orders and upcoming orders.
