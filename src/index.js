@@ -9,7 +9,7 @@ import { createStore, applyMiddleware, compose, combineReducers } from "redux";
 import { Provider } from "react-redux";
 import burgerBuilderReducer from "./store/reducers/burgerBuilder";
 import orderReducer from "./store/reducers/order";
-import authReducer from "./store/reducers/auth";
+import authReducer from "./store/reducers/auth"; 
 
 import * as serviceWorker from "./serviceWorker";
 
